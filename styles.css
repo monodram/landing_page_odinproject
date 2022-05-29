@@ -142,7 +142,6 @@ body {
 
 
 .cta_bar button {
-    min-height: 0px;
     margin-top: 14px;
     border-radius: 8px;
     font-size: 14px;
@@ -173,4 +172,8 @@ li {
 a {
     text-decoration: none;
     color: #E5E7EB;
+}
+
+button {
+    font-family: 'Roboto', sans-serif;
 }
